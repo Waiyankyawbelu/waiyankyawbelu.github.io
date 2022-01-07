@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Home</title>
+    <link>https://waiyankyawbelu.github.io/projects/</link>
+    <description>Recent content in Projects on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Jan 2022 13:40:29 +0200</lastBuildDate><atom:link href="https://waiyankyawbelu.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://waiyankyawbelu.github.io/projects/projects/</link>
+      <pubDate>Fri, 07 Jan 2022 13:40:29 +0200</pubDate>
+      
+      <guid>https://waiyankyawbelu.github.io/projects/projects/</guid>
+      <description>Projects for Computer Technologies in Telecommunication 
+While I was studying a master degree for the first semester, I have made a lot of projects which are related to database, such as SQL, NoSQL, Sqlite and Mogodb. I describe below everything project that I have made during the first semester for the computer Technologies in Telecommunication.
+First of all, I describe below about SQL Database project that I have make for the first time as a master student.</description>
+    </item>
+    
+  </channel>
+</rss>
