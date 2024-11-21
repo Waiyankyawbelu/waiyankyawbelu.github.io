@@ -39,6 +39,9 @@ jobs:
       actions: read
       contents: read
 
+      # required for OIDC token
+      id-token: write
+
     strategy:
       fail-fast: false
       matrix:
