@@ -1,0 +1,4 @@
+---
+target_hosts: web_servers
+test_type: full
+expected_version: "2.4.41"
